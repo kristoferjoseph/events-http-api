@@ -1,0 +1,11 @@
+{
+  "name": "begin-app",
+  "version": "0.0.0",
+  "description": "Example demonstrating publishing and subscribing to an event",
+  "scripts": {
+    "start": "npx sandbox"
+  },
+  "devDependencies": {
+    "@architect/sandbox": "latest"
+  }
+}
